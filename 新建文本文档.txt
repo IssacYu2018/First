@@ -5,3 +5,5 @@ add2: clear test1 and add test2
 添加中文测试
 
 一次添加两个修改测试
+
+newbranch 测试
