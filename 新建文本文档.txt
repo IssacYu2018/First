@@ -1,2 +1,3 @@
 this is a test text
-add1:tetst1
+
+add2: clear test1 and add test2
